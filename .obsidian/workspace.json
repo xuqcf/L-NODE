@@ -11,17 +11,14 @@
             "id": "b9c391b6928a98b6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for README.md"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from README.md"
             }
           },
           {
@@ -159,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "README.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of README.md"
             }
           },
           {
@@ -197,15 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "540fcea504dd2d5e",
+  "active": "b9c391b6928a98b6",
   "lastOpenFiles": [
+    "Python/Programming Index.md",
     "Python/Rules - Object-Oriented Programming.md",
     "Python/Rules - Functional Programming.md",
-    "Python/Programming Index.md",
+    "README.md.md",
+    "Untitled.canvas",
     "Python/Functional Programming Notes.md",
     "Python/AI Agent Project — Video Tutorial Notes.md",
     "Python/AI Agent Project — Comprehensive Notes.md",
-    "Untitled.canvas",
     "Python/AI Agent Project — Video Tutorial Notes.md",
     "Python/AI Agent Project — Comprehensive Notes.md",
     "Python",
