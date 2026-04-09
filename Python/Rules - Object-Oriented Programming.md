@@ -2,7 +2,7 @@
 tags: [python, oop, programming]
 links: ["[[Programming Index]]"]
 ---
-Here's a list of how the operators translate into method names.
+1Here's a list of how the operators translate into method names.
 
 | Operation           | Operator | Method         |
 | ------------------- | -------- | -------------- |

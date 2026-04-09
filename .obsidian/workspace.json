@@ -11,14 +11,17 @@
             "id": "b9c391b6928a98b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Python 1/Rules - Object-Oriented Programming.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Rules - Object-Oriented Programming"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python 1/Rules - Object-Oriented Programming.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rules - Object-Oriented Programming"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python 1/Rules - Object-Oriented Programming.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rules - Object-Oriented Programming"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python 1/Rules - Object-Oriented Programming.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rules - Object-Oriented Programming"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -196,15 +199,16 @@
   },
   "active": "540fcea504dd2d5e",
   "lastOpenFiles": [
+    "Python/Rules - Object-Oriented Programming.md",
+    "Python/Rules - Functional Programming.md",
+    "Python/Programming Index.md",
+    "Python/Functional Programming Notes.md",
     "Python/AI Agent Project — Video Tutorial Notes.md",
-    "Python 1/Rules - Object-Oriented Programming.md",
     "Python/AI Agent Project — Comprehensive Notes.md",
-    "Python 1/Functional Programming Notes.md",
-    "Python 1/Programming Index.md",
-    "Python 1/Rules - Functional Programming.md",
-    "Python 1/AI Agent Project — Video Tutorial Notes.md",
-    "Python 1/AI Agent Project — Comprehensive Notes.md",
-    "Python 1",
+    "Untitled.canvas",
+    "Python/AI Agent Project — Video Tutorial Notes.md",
+    "Python/AI Agent Project — Comprehensive Notes.md",
+    "Python",
     "Python",
     "README.md",
     "Untitled.base"
