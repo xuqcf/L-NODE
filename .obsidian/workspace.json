@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Agent Project — Comprehensive Notes.md",
+                "file": "Python/AI Agent Project — Comprehensive Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Agent Project — Video Tutorial Notes.md",
+                "file": "Python/AI Agent Project — Video Tutorial Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Agent Project — Video Tutorial Notes.md",
+                "file": "Python/AI Agent Project — Video Tutorial Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Agent Project — Video Tutorial Notes.md",
+                "file": "Python/AI Agent Project — Video Tutorial Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Agent Project — Video Tutorial Notes.md",
+                "file": "Python/AI Agent Project — Video Tutorial Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,10 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9c391b6928a98b6",
+  "active": "540fcea504dd2d5e",
   "lastOpenFiles": [
-    "AI Agent Project — Comprehensive Notes.md",
-    "AI Agent Project — Video Tutorial Notes.md",
+    "Python",
+    "Python/AI Agent Project — Comprehensive Notes.md",
+    "Python/AI Agent Project — Video Tutorial Notes.md",
     "README.md",
     "Untitled.base"
   ]
