@@ -1,3 +1,19 @@
+---
+tags:
+  - python
+  - ai-agents
+  - gemini-api
+  - bootdev
+  - llm
+  - function-calling
+  - cli
+  - subprocess
+  - tool-use
+  - project-notes
+aliases:
+  - Boot.dev Agent Video Notes
+  - Lane Wagner Agent Course
+---
 
 # AI Agent Project — Video Tutorial Notes
 > Boot.dev "Build an AI Agent in Python" — Lane Wagner
